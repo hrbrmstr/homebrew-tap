@@ -1,5 +1,5 @@
 class Archinfo < Formula
-  desc "Archinfo"
+  desc "archinfo — list running processes and the architecture they are running under"
   homepage "https://github.com/hrbrmstr/archinfo"
   version "0.4.0"
 
