@@ -30,5 +30,6 @@ With the following commands, you can install the latest generally available (GA)
 ```sh
 # Formulae
 brew install hrbrmstr/tap/archinfo   # list running processes and the architecture they are running under
+brew install hrbrmstr/tap/kev-push   # Be notified whenever CISA updates their Known Exploited Vulnerabilities (KEV) Catalog.
 brew install hrbrmstr/tap/weatherkit # Command line Apple WeatherKit REST API weather conditions and hourly/daily foreacast utility
 ```
