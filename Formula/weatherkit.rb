@@ -5,7 +5,7 @@ class Weatherkit < Formula
 
   if OS.mac? && Hardware::CPU.arm?
     url "https://github.com/hrbrmstr/weatherkit-rust/releases/download/v0.3.0/weatherkit-0.3.0.zip"
-    sha256 "ab17706a5bb04d04315d6aff4464bdebb548b635ac75cbe4b71825df424fb5f5"
+    sha256 "ec32b2f52060411e18965702a7257f8fad83410d59b35dba30062a03c3867230"
   end
 
   conflicts_with "weatherkit"

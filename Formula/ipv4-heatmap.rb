@@ -5,7 +5,7 @@ class Ipv4Heatmap < Formula
 
   if OS.mac? && Hardware::CPU.arm?
     url "https://github.com/hrbrmstr/rust-ipv4heatmap/releases/download/v0.5.0/ipv4-heatmap-macos-signed-universal-0.5.0.zip"
-    sha256 "31031525a515d9b92b6cc5c9e8618795c8f06e0d508509b6d5b638a6312558c8"
+    sha256 "6c047f6fcf66783a6842a5d7632a70c8e95ae923f48d5574fcc71d05b43e95ae"
   end
 
   conflicts_with "ipv4-heatmap"

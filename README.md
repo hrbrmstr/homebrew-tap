@@ -32,5 +32,7 @@ With the following commands, you can install the latest generally available (GA)
 brew install hrbrmstr/tap/archinfo     # list running processes and the architecture they are running under
 brew install hrbrmstr/tap/ipv4-heatmap # Generate IPv4 12th order Hilbert heatmaps from a file of IPv4 addresses.
 brew install hrbrmstr/tap/kev-push     # Be notified whenever CISA updates their Known Exploited Vulnerabilities (KEV) Catalog.
+brew install hrbrmstr/tap/ohq2quarto   # Save an Observable HQ Notebook to a Quarto project.
 brew install hrbrmstr/tap/weatherkit   # Command line Apple WeatherKit REST API weather conditions and hourly/daily foreacast utility
 ```
+
