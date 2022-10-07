@@ -1,4 +1,4 @@
-class Kevpush < Formula
+class KevPush < Formula
   desc "kev-push — Be notified whenever CISA updates their Known Exploited Vulnerabilities (KEV) Catalog."
   homepage "https://github.com/hrbrmstr/kev-push"
   version "0.1.0"
