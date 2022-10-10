@@ -32,6 +32,7 @@ With the following commands, you can install the latest generally available (GA)
 brew install hrbrmstr/tap/archinfo     # list running processes and the architecture they are running under
 brew install hrbrmstr/tap/ipv4-heatmap # Generate IPv4 12th order Hilbert heatmaps from a file of IPv4 addresses.
 brew install hrbrmstr/tap/kev-push     # Be notified whenever CISA updates their Known Exploited Vulnerabilities (KEV) Catalog.
+brew install hrbrmstr/tap/mepower      # Scrape CMP outage information to JSON.
 brew install hrbrmstr/tap/ohq2quarto   # Save an Observable HQ Notebook to a Quarto project.
 brew install hrbrmstr/tap/sl2json      # Standalone program to convert Lowrance SL2 files to ndjson.
 brew install hrbrmstr/tap/weatherflow  # Basic WeatherFlow Tempest command line UDP receiver in Rust.

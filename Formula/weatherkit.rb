@@ -3,7 +3,7 @@ class Weatherkit < Formula
   homepage "https://github.com/hrbrmstr/weatherkit-rust"
   version "0.4.0"
 
-  if OS.mac? && Hardware::CPU.arm?
+  if OS.mac?
     url "https://github.com/hrbrmstr/weatherkit-rust/releases/download/v0.3.0/weatherkit-0.3.0.zip"
     sha256 "ec32b2f52060411e18965702a7257f8fad83410d59b35dba30062a03c3867230"
   end
